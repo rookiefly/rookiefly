@@ -1,6 +1,6 @@
 ## Yoo, I'm rookiefly 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fspencerwooo)](https://github.com/rookiefly)
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Frookiefly)](https://github.com/rookiefly)
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
